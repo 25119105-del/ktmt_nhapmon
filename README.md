@@ -3,4 +3,9 @@ Dự án đầu tiên của tôi
 + Họ và tên: Nguyễn Vũ Tấn Khoa
 + MSSV: 25119105
 + Sở thích: nghe nhạc, đọc sách, tìm hiểu về các công nghệ và đặc biệt là với máy
+<<<<<<< HEAD
 + conflic nè
+=======
++ tạo conflic lại nha
+  
+>>>>>>> 4daecb794e9e13b571bceb7dc3009c16786ffac6
