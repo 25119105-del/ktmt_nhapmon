@@ -4,7 +4,7 @@ Dự án đầu tiên của tôi
 + MSSV: 25119105
 + Sở thích: nghe nhạc, đọc sách, tìm hiểu về các công nghệ và đặc biệt là với máy
 <<<<<<< HEAD
-+ conflic nè
+
 =======
 + tạo conflic lại nha
   
